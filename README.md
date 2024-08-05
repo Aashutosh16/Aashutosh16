@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/55b81ae3-34a4-495a-aad6-846a5d58ced2)!
-
+![image](https://github.com/user-attachments/assets/55b81ae3-34a4-495a-aad6-846a5d58ced2)
 <h1 align="center">Hi 👋, I'm Aashutosh Dubey</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
