@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aashutosh Dubey</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQFn3lHRWjW6Jw/article-cover_image-shrink_600_2000/0/1688806627741?e=2147483647&v=beta&t=qq8ON53ly1q5lWEh3DD14RKn73bR5xuhASZy3h3-obo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashutosh16&label=Profile%20views&color=0e75b6&style=flat" alt="aashutosh16" /> </p>
 
