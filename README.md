@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aashu_2002_" target="blank"><img src="https://img.shields.io/twitter/follow/aashu_2002_?logo=twitter&style=for-the-badge" alt="aashu_2002_" /></a> </p>
 
-- 📚 4th-year MSIT Information and Technology student
-- 🎓 Pursuing my B.Tech in Technology & Innovation
+
 - 💻 Passionate about coding and problem-solving
 - 🌐 Exploring the world of software development
 - 🔍 Always eager to learn and grow
