@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/55b81ae3-34a4-495a-aad6-846a5d58ced2)
 <h1 align="center">Hi 👋, I'm Aashutosh Dubey</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQFn3lHRWjW6Jw/article-cover_image-shrink_600_2000/0/1688806627741?e=2147483647&v=beta&t=qq8ON53ly1q5lWEh3DD14RKn73bR5xuhASZy3h3-obo">
 
